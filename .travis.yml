@@ -1,0 +1,6 @@
+language: r
+warnings_are_errors: true
+sudo: false
+cache: packages
+apt_packages: gdal
+r_build_args: --resave-data
