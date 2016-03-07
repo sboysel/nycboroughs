@@ -16,6 +16,11 @@ Call the `nycboroughs` object directly
 summary(nycboroughs)
 plot(nycboroughs)
 ```
+You can also [preview the source data](https://github.com/sboysel/nycboroughs/blob/master/data-raw/nycboroughs.geojson) using GitHub's GeoJSON rendering feature.
 
 ## Data Source
 New York City Department of City Planning via [NYC OpenData](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
+
+## See Also
+
+* [sboysel/nyccollisions](https://github.com/sboysel/nyccollisions)
