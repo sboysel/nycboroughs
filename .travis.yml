@@ -19,7 +19,6 @@ addons:
     - r-base-dev
     - r-recommended
     - pandoc
-    - gdal
 
 # cache local R libraries directory:
 cache:

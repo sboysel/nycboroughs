@@ -7,11 +7,9 @@ Description: NYC Borough Boundaries as a SpatialPolygonsDataFrame object.
 URL: https://github.com/sboysel/nycboroughs
 BugReports: http://github.com/sboysel/nycboroughs/issues
 Depends:
-    R (>= 2.10)
+  R (>= 2.10)
 Imports:
   sp
-Suggests:
-  rgdal
 LazyData: TRUE
 License: GPL-3
 RoxygenNote: 5.0.1
