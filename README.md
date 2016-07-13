@@ -11,10 +11,10 @@ Install
 devtools::install_github("sboysel/nycboroughs")
 library(nycboroughs)
 ```
-Call the `nycboroughs` object directly
+Call the `boroughs` object directly
 ```{r}
-summary(nycboroughs)
-plot(nycboroughs)
+summary(boroughs)
+plot(boroughs)
 ```
 You can also [preview the source data](https://github.com/sboysel/nycboroughs/blob/master/data-raw/nycboroughs.geojson) using GitHub's GeoJSON rendering feature.
 
